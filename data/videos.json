@@ -1,0 +1,25 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "台湾日常 · 独家粽子吃法",
+      "category": "其他",
+      "bvid": "BV11JTg6REh4",
+      "cover": "https://i1.hdslb.com/bfs/archive/40d7939424cecb8a1c47048eacb7fa34fc284172.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Steam Machine 启动！",
+      "category": "其他",
+      "bvid": "BV1sCTp6oE3i",
+      "cover": "https://i2.hdslb.com/bfs/archive/107554e4f6963d2da26f604e2d0635cea8345354.jpg"
+    },
+    {
+      "id": 3,
+      "title": "四款折叠屏核心体验谁更强？2026折叠屏手机推荐",
+      "category": "展览纪录",
+      "bvid": "BV1noTs6dEPk",
+      "cover": "images/videos/video-03.webp"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "site": {
+    "title": "陈河田 — 青年艺术家",
+    "description": "陈河田，1990年生于福建厦门，青年艺术家，作品色彩浓烈、构图饱满，代表作《魂》《眼》《游离之间》《意蕴》等系列。",
+    "navName": "陈河田"
+  },
+  "hero": {
+    "name": "陈河田",
+    "subtitle": "色彩浓烈，构图饱满——以故事为画笔，以信仰为颜料，在现实与精神之间自由穿行",
+    "buttons": [
+      "进入作品集",
+      "关于艺术家",
+      "展览信息"
+    ],
+    "bgType": "video",
+    "bgImage": "images/site/hero-bg.jpg?v=1784074946",
+    "bgVideo": "images/site/hero-bg.mp4",
+    "worksBgImage": "images/site/works-bg.jpg"
+  },
+  "about": {
+    "name": "陈河田",
+    "subtitle": "青年艺术家 · 油画",
+    "portrait": "images/works/work-05.jpg",
+    "bio": [
+      "1990年10月出生于福建厦门（翔安区），现工作生活于厦门。2015年毕业于贵州师范大学油画专业，获本科学位。",
+      "大学期间深受苗族、布依族等少数民族文化的浓烈色彩与神秘图腾感染，这直接影响了他的毕业创作《魂》系列。毕业后经历职业迷茫期，曾担任代课老师、开办绘画培训班，但始终坚持创作。",
+      "2016年作品在上海首次售出，此后陆续参加国内外展览。2022年华为公司一次性购得其40余幅作品，总价超过100万元，成为其艺术生涯的关键转折点，从此成为全职画家。",
+      "2026年2月，与朋友在厦门沙坡尾共同创立展览空间，为本地与外地年轻艺术家搭建交流平台。"
+    ],
+    "quote": "对于绘画，我是从心底热爱的，我不会平白无故地去画，一定要有故事才能去讲述，才能打动别人。",
+    "quoteAuthor": "—— 陈河田",
+    "philosophy": [
+      {
+        "title": "绘画风格",
+        "content": "以油画为主，色彩浓烈、构图饱满，画面富有张力与爆发力。擅长使用厚堆技法，在颜料中加入筛好的细沙，通过堆叠形成类似毛织物的立体肌理感和雕刻般的画面效果。"
+      },
+      {
+        "title": "文化根基",
+        "content": "创作常融入从贵州少数民族（布依族、苗族）文化中汲取的图腾、符号元素。综合材料作品风格提纯概括，画面中所有图腾符号相互拥挤、排斥或呼应，蕴含隐喻，呈现出天真纯朴的热情。"
+      },
+      {
+        "title": "精神寄托",
+        "content": "将艺术视为精神的“补品”和寄托，是用来弥补精神缺失的现实生活的一种方式。将艺术创作视为一种“信仰”和“精神的乌托邦”，但强调仍需面对现实。"
+      }
+    ],
+    "background": [
+      {
+        "title": "教育背景",
+        "items": [
+          "2011–2015 贵州师范大学 · 油画专业 · 本科学位"
+        ]
+      },
+      {
+        "title": "职业经历",
+        "items": [
+          "2015 大学毕业，经历职业迷茫期",
+          "2015–2016 担任学校代课老师",
+          "2015–2016 开办绘画培训班",
+          "2016 上海展览，作品首次售出",
+          "2022 华为收藏40余幅作品，成为全职画家",
+          "2026 厦门沙坡尾展览空间联合创始人"
+        ]
+      },
+      {
+        "title": "代表系列",
+        "items": [
+          "《魂》系列 — 毕业创作",
+          "《眼》系列",
+          "《游离之间》系列",
+          "《意蕴》系列",
+          "《敢问路在何方》系列",
+          "《忙碌的社会》系列"
+        ]
+      }
+    ],
+    "recognition": {
+      "quote": "《魂》系列是思想精髓的出窍，时间文化的记录。",
+      "quoteAuthor": "—— 艺术评论家 袁洪业",
+      "items": [
+        {
+          "title": "华为收藏",
+          "content": "2022年，华为公司一次性购得陈河田40余幅作品，总价超过100万元人民币。这是其艺术生涯的关键转折，此后成为全职画家，全身心投入创作。"
+        },
+        {
+          "title": "展览足迹",
+          "content": "作品展览足迹遍布中国北京、上海、深圳、武汉、南京等主要城市，并远及美国纽约、摩洛哥等地的艺术机构和美术馆。"
+        }
+      ]
+    },
+    "awards": [
+      {
+        "title": "2014",
+        "items": [
+          "绚丽年华第七届全国美育成果展 · 学生组一等奖"
+        ]
+      },
+      {
+        "title": "2015",
+        "items": [
+          "第四届贵州省高校毕业生美术作品展 · 银奖",
+          "第七届\"城丰杯\"贵州省高校学生美术作品大赛 · 三等奖"
+        ]
+      },
+      {
+        "title": "2018",
+        "items": [
+          "首届中外美术文献奖 · 提名奖（《韵》系列）"
+        ]
+      }
+    ],
+    "cv": {
+      "file": "files/cv.pdf",
+      "fileName": "早餐和午餐的建议 ai.pdf",
+      "externalUrl": ""
+    },
+    "studio": {
+      "description": "我的工作室位于厦门沙坡尾，一片依海而生的旧渔港。清晨的阳光透过落地窗洒在画布上，海风带着咸涩的气息，与颜料的味道混合成我创作的底色。这里是我与色彩对话的私密空间，每一幅作品都从这里的安静开始，在画布上慢慢生长。工作室里堆满了各色油画颜料、调色板和未完成的画布，墙上挂着多年来收集的艺术画册和展览海报，记录着我从贵州到厦门的创作历程。",
+      "images": [
+        "images/site/studio-01.webp",
+        "images/site/studio-02.webp",
+        "images/site/studio-03.webp"
+      ]
+    }
+  },
+  "contact": {
+    "collaboration": {
+      "desc": "欢迎各类合作洽谈",
+      "items": [
+        {
+          "title": "作品收藏",
+          "content": "如果您对收藏陈河田的作品感兴趣，欢迎通过微信联系，我们将提供作品图录、价格及收藏流程说明。"
+        },
+        {
+          "title": "展览邀请",
+          "content": "欢迎国内外美术馆、画廊、艺术空间策展人联系展览合作，我们提供完整的作品方案与展陈建议。"
+        },
+        {
+          "title": "媒体采访",
+          "content": "接受艺术媒体、文化杂志、纪录片团队的采访与拍摄合作，分享创作理念与艺术故事。"
+        }
+      ],
+      "quote": "只要能够解决温饱，画画一辈子都不要放弃。",
+      "quoteAuthor": "—— 陈河田的老师"
+    },
+    "channels": [
+      {
+        "type": "wechat",
+        "label": "扫码添加微信好友",
+        "qrImage": "images/site/wechat-qr.webp"
+      },
+      {
+        "type": "wechatOfficial",
+        "label": "哲悟空间",
+        "qrImage": "images/site/wechatofficial-qr.webp"
+      },
+      {
+        "type": "email",
+        "value": "chenhetian@art.com"
+      },
+      {
+        "type": "xiaohongshu",
+        "label": "",
+        "url": ""
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 陈河田. All rights reserved."
+  },
+  "exchangeRates": {
+    "base": "CNY",
+    "zhNote": "最终金额可能在此基础上有一定浮动",
+    "rates": {
+      "en": {
+        "currency": "USD",
+        "symbol": "$",
+        "rate": 0.147313,
+        "note": "Final amount may fluctuate slightly from this estimate"
+      },
+      "fr": {
+        "currency": "EUR",
+        "symbol": "€",
+        "rate": 0.12931,
+        "note": "Le montant final peut légèrement fluctuer par rapport à cette estimation"
+      },
+      "de": {
+        "currency": "EUR",
+        "symbol": "€",
+        "rate": 0.12931,
+        "note": "Der endgültige Betrag kann von diesem Schätzwert abweichen"
+      },
+      "es": {
+        "currency": "EUR",
+        "symbol": "€",
+        "rate": 0.12931,
+        "note": "El monto final puede variar ligeramente respecto a esta estimación"
+      },
+      "ru": {
+        "currency": "RUB",
+        "symbol": "₽",
+        "rate": 11.325028,
+        "note": "Окончательная сумма может незначительно отличаться от этой оценки"
+      },
+      "ar": {
+        "currency": "USD",
+        "symbol": "$",
+        "rate": 0.147313,
+        "note": "قد يختلف المبلغ النهائي قليلاً عن هذا التقدير"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "latestLabel": "Latest Works",
+      "latestTitle": "最新作品",
+      "latestDesc": "色彩浓烈、构图饱满，每一幅作品都是一段精神的独白",
+      "exhibitionBtn": "查看展览时间线"
+    },
+    "works": {
+      "label": "Portfolio",
+      "title": "作品集",
+      "desc": "像在画廊中漫步——每一件作品都有它的故事",
+      "searchPlaceholder": "搜索相关作品..."
+    },
+    "videos": {
+      "label": "Videos",
+      "title": "视频展厅",
+      "desc": "图片是结果，视频是过程——让作品活起来"
+    },
+    "about": {
+      "portraitAlt": "陈河田",
+      "contactBtn": "联系我",
+      "timelineBtn": "展览经历",
+      "philosophyLabel": "Artistic Philosophy",
+      "philosophyTitle": "艺术理念",
+      "backgroundLabel": "Background",
+      "backgroundTitle": "学历与经历",
+      "recognitionLabel": "Recognition",
+      "recognitionTitle": "媒体与评价",
+      "cvLabel": "Curriculum Vitae",
+      "cvTitle": "艺术家简历",
+      "cvPrintBtn": "🖨️ 下载完整CV",
+      "studioLabel": "Studio",
+      "studioTitle": "工作室与创作"
+    },
+    "timeline": {
+      "label": "Exhibitions",
+      "title": "展览时间线",
+      "desc": "从学院到国际——一条艺术成长之路",
+      "awardsLabel": "Awards",
+      "awardsTitle": "获奖记录"
+    },
+    "contact": {
+      "label": "Contact",
+      "title": "联系",
+      "desc": "网站最终目的是连接现实世界",
+      "collaborationLabel": "Collaboration",
+      "collaborationTitle": "商业合作"
+    }
+  },
+  "categories": {
+    "works": [
+      "all",
+      "油画",
+      "素描",
+      "装置艺术",
+      "展览作品",
+      "测试的"
+    ],
+    "worksSeries": [
+      "all",
+      "魂",
+      "眼",
+      "游离之间",
+      "意蕴",
+      "敢问路在何方",
+      "单件作品",
+      "忙碌的社会",
+      "测试啊",
+      "花样年华系列5",
+      "生如夏花2"
+    ],
+    "videos": [
+      "all",
+      "创作过程",
+      "展览纪录",
+      "其他"
+    ]
+  },
+  "shareCard": {
+    "siteUrl": "https://woaisikao-cmd.github.io/chenhetian-Artist/",
+    "image": "images/site/share-card.jpg"
+  },
+  "aiConfig": {
+    "baseUrl": "https://api.siliconflow.cn/v1",
+    "model": "MiniMaxAI/MiniMax-M2.5",
+    "systemPrompt": "你是一位专业的艺术领域翻译专家，精通中文和目标语言。请将提供的中文内容翻译成目标语言。\n\n翻译要求：\n1. 结合意译和直译：在保留原意的基础上，让译文符合目标语言的表达习惯\n2. 专业准确：艺术术语（如油画、装置艺术、布面油画等）要翻译准确\n3. 情感色彩：保留原文的情感和诗意，特别是艺术家自述、引言等内容\n4. 简洁有力：按钮文字、标签等简短内容要精炼\n5. 文化适配：人名、地名等专有名词按目标语言的惯例处理\n6. 保持格式：JSON 的 key 保持不变，只翻译 value\n\n请直接返回 JSON 对象，不要包含任何解释文字或 markdown 代码块标记。"
+  },
+  "watermark": {
+    "type": "text",
+    "text": "© 陈河田",
+    "textColor": "#ffffff",
+    "textOpacity": 0.6,
+    "textSize": 24,
+    "position": "top-left"
+  },
+  "glossary": {},
+  "selectedLangs": [
+    "tw",
+    "en",
+    "fr",
+    "de",
+    "es",
+    "ja"
+  ]
+}
